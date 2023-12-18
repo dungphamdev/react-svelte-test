@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "dbbA9XcvLQWY1hMgcuHKliDwCmEW8TZ58TtkNk+gntM=",
+  "Source": "test3.Server",
+  "BasePath": "_content/test3.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\dungpt\\Desktop\\svelte-repos\\test3\\test3.client\\test3.client.esproj",
+      "Version": 2,
+      "Source": "test3.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

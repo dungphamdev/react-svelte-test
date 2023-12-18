@@ -1,0 +1,8 @@
+C:\Users\dungpt\Desktop\svelte-repos\test3\out\test3.Server.exe
+C:\Users\dungpt\Desktop\svelte-repos\test3\out\appsettings.Development.json
+C:\Users\dungpt\Desktop\svelte-repos\test3\out\appsettings.json
+C:\Users\dungpt\Desktop\svelte-repos\test3\out\test3.Server.dll
+C:\Users\dungpt\Desktop\svelte-repos\test3\out\test3.Server.deps.json
+C:\Users\dungpt\Desktop\svelte-repos\test3\out\test3.Server.runtimeconfig.json
+C:\Users\dungpt\Desktop\svelte-repos\test3\out\test3.Server.pdb
+C:\Users\dungpt\Desktop\svelte-repos\test3\out\Microsoft.AspNetCore.SpaProxy.dll
